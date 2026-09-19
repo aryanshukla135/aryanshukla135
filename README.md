@@ -1,6 +1,6 @@
 <!-- TOP CYBER NEON HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:1F0833,100:090D16&height=220&section=header&text=ARYAN%20SHUKLA&fontSize=70&fontColor=00F0FF&animation=twinkle&desc=%E2%9C%A8%20CYBER%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER%20%E2%9C%A8&descSize=20&descAlignY=72&descColor=F033FF" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:1F0833,100:090D16&height=220&section=header&text=ARYAN%20SHUKLA&fontSize=70&fontColor=00F0FF&animation=twinkle&desc=%E2%9C%A8%20SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20ENGINEER%20%E2%9C%A8&descSize=20&descAlignY=72&descColor=F033FF" width="100%" alt="Header Banner"/>
 </p>
 
 <!-- DYNAMIC ANIMATED TYPING HEADER -->
@@ -32,8 +32,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanshukla135&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshukla135&theme=synthwave&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aryanshukla135&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aryanshukla135&theme=synthwave&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/aryanshukla135?label=Followers&style=for-the-badge&color=00F0FF&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/aryanshukla135?label=Total%20Stars&style=for-the-badge&color=F033FF&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repos-personal/aryanshukla135?label=Repositories&style=for-the-badge&color=7EE787&logo=github" alt="Repos" />
 </p>
 
 ---
