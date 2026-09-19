@@ -12,15 +12,13 @@ Software Developer passionate about building web applications and writing clean,
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Coding Profiles
 
-- **Profile:** [github.com/aryanshukla135](https://github.com/aryanshukla135)
-
-*(Your contribution graph above automatically updates with your public and private activity)*
+- **LeetCode:** [leetcode.com/u/aryanshukla313](https://leetcode.com/u/aryanshukla313/)
 
 ---
 
 ### 🌐 Connect With Me
 
-- **LinkedIn:** [Add your LinkedIn profile link here]
-- **Email:** [Add your Email address here]
+- **LinkedIn:** [linkedin.com/in/aryan-shukla-02a54a2b3](https://linkedin.com/in/aryan-shukla-02a54a2b3)
+- **Email:** [aryanshukla135@gmail.com](mailto:aryanshukla135@gmail.com)
