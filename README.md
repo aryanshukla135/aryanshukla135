@@ -8,8 +8,6 @@ Software Developer passionate about building web applications and writing clean,
 
 - **Languages:** C++, JavaScript, C, HTML5, CSS3
 - **Frontend & Backend:** React, Node.js, Express, MongoDB, Tailwind CSS
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux, Figma
-
 ---
 
 ### 🧩 Coding Profiles
